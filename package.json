@@ -1,0 +1,23 @@
+{
+  "name": "bpmn-toll",
+  "version": "1.0.0",
+  "description": "This is a brief description of what the project does.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasLiachiPro/bpmn-toll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasLiachiPro/bpmn-toll/issues"
+  },
+  "homepage": "https://github.com/LucasLiachiPro/bpmn-toll#readme",
+  "dependencies": {
+    "bpmn-js": "^11.4.1"
+  }
+}
